@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 🏆 Github Stats 🏆 
 </h2>
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="45%">
 
 <img src="https://raw.githubusercontent.com/alvarolop/github-stats/master/generated/overview.svg" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="45%">
 
 <img src="https://raw.githubusercontent.com/alvarolop/github-stats/master/generated/languages.svg" align="left" style="width: 100%" />
 </td></tr></table>  
