@@ -39,13 +39,14 @@ Here are some ideas to get you started:
 🏆 Github Stats 🏆 
 </h2>
 
+<div align="center">
 <table><tr><td valign="top" width="50%">
 
-<img src="https://raw.githubusercontent.com/alvarolop/github-stats/master/generated/overview.svg" align="left" style="width: 99%" />
+<img src="https://raw.githubusercontent.com/alvarolop/github-stats/master/generated/overview.svg" align="left" style="width: 98%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://raw.githubusercontent.com/alvarolop/github-stats/master/generated/languages.svg" align="left" style="width: 99%" />
+<img src="https://raw.githubusercontent.com/alvarolop/github-stats/master/generated/languages.svg" align="left" style="width: 98%" />
 </td></tr></table>  
 
 <br/>  
