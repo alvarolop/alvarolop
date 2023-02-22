@@ -11,9 +11,9 @@
 </div>
 
 
-- 🏢 I’m currently working at Red Hat.
-- 📍 I'm living in Madrid, Spain.
-- 🔭 Fostering the adoption of cloud-native solutions in legacy ecosystems using open-source projects.
+- 🏢 I’m currently working at **Red Hat**.
+- 📍 I'm living in **Madrid**, Spain.
+- 🔭 Fostering the adoption of **cloud-native solutions** in legacy ecosystems using open-source projects.
 - 📫 How to reach me: Contact me using Linkedin or at alvarolop.medina@gmail.com.
 
 
