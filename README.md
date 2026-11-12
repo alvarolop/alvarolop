@@ -40,14 +40,11 @@ Here are some ideas to get you started:
 </h2>
 
 <div align="center">
-<table><tr><td valign="top" width="50%">
-
-<img src="https://raw.githubusercontent.com/alvarolop/github-stats/master/generated/overview.svg" align="left" style="width: 98%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://raw.githubusercontent.com/alvarolop/github-stats/master/generated/languages.svg" align="left" style="width: 98%" />
-</td></tr></table>  
+<a href="https://github.com/alvarolop/github-stats">
+<img src="https://github.com/alvarolop/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/alvarolop/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
+</a>
+</div>
 
 <br/>  
 <br/>  
